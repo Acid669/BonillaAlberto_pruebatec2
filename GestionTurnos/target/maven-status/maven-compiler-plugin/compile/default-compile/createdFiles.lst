@@ -1,0 +1,16 @@
+com\turnos\gestionturnos\persistencia\ControladoraPersistencia.class
+com\turnos\gestionturnos\persistencia\exceptions\IllegalOrphanException.class
+com\turnos\gestionturnos\logica\Controladora.class
+com\turnos\gestionturnos\servlets\TurnosFiltradosSv.class
+com\turnos\gestionturnos\resources\JakartaEE8Resource.class
+com\turnos\gestionturnos\persistencia\exceptions\PreexistingEntityException.class
+com\turnos\gestionturnos\logica\Turno.class
+com\turnos\gestionturnos\persistencia\TurnoJpaController.class
+com\turnos\gestionturnos\logica\Ciudadano.class
+com\turnos\gestionturnos\JakartaRestConfiguration.class
+com\turnos\gestionturnos\persistencia\exceptions\NonexistentEntityException.class
+com\turnos\gestionturnos\logica\Ciudadano_.class
+com\turnos\gestionturnos\logica\Turno_.class
+com\turnos\gestionturnos\servlets\TurnoSv.class
+com\turnos\gestionturnos\persistencia\CiudadanoJpaController.class
+com\turnos\gestionturnos\servlets\CambiarEstadoSv.class

@@ -1,0 +1,15 @@
+D:\Cursos\NETBEANS\GestionTurnos\src\main\java\com\turnos\gestionturnos\logica\Ciudadano.java
+D:\Cursos\NETBEANS\GestionTurnos\src\main\java\com\turnos\gestionturnos\persistencia\CiudadanoJpaController.java
+D:\Cursos\NETBEANS\GestionTurnos\src\main\java\com\turnos\gestionturnos\persistencia\exceptions\IllegalOrphanException.java
+D:\Cursos\NETBEANS\GestionTurnos\src\main\java\com\turnos\gestionturnos\persistencia\exceptions\NonexistentEntityException.java
+D:\Cursos\NETBEANS\GestionTurnos\src\main\java\com\turnos\gestionturnos\persistencia\ControladoraPersistencia.java
+D:\Cursos\NETBEANS\GestionTurnos\src\main\java\com\turnos\gestionturnos\resources\JakartaEE8Resource.java
+D:\Cursos\NETBEANS\GestionTurnos\src\main\java\com\turnos\gestionturnos\servlets\TurnosFechaSv.java
+D:\Cursos\NETBEANS\GestionTurnos\src\main\java\com\turnos\gestionturnos\JakartaRestConfiguration.java
+D:\Cursos\NETBEANS\GestionTurnos\src\main\java\com\turnos\gestionturnos\persistencia\TurnoJpaController.java
+D:\Cursos\NETBEANS\GestionTurnos\src\main\java\com\turnos\gestionturnos\servlets\TurnosFiltradosSv.java
+D:\Cursos\NETBEANS\GestionTurnos\src\main\java\com\turnos\gestionturnos\servlets\CambiarEstadoSv.java
+D:\Cursos\NETBEANS\GestionTurnos\src\main\java\com\turnos\gestionturnos\persistencia\exceptions\PreexistingEntityException.java
+D:\Cursos\NETBEANS\GestionTurnos\src\main\java\com\turnos\gestionturnos\logica\Turno.java
+D:\Cursos\NETBEANS\GestionTurnos\src\main\java\com\turnos\gestionturnos\logica\Controladora.java
+D:\Cursos\NETBEANS\GestionTurnos\src\main\java\com\turnos\gestionturnos\servlets\TurnoSv.java
