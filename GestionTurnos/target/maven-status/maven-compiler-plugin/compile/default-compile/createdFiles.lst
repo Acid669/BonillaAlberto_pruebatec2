@@ -4,6 +4,7 @@ com\turnos\gestionturnos\logica\Controladora.class
 com\turnos\gestionturnos\servlets\TurnosFiltradosSv.class
 com\turnos\gestionturnos\resources\JakartaEE8Resource.class
 com\turnos\gestionturnos\persistencia\exceptions\PreexistingEntityException.class
+com\turnos\gestionturnos\servlets\TurnosFechaSv.class
 com\turnos\gestionturnos\logica\Turno.class
 com\turnos\gestionturnos\persistencia\TurnoJpaController.class
 com\turnos\gestionturnos\logica\Ciudadano.class
